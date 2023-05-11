@@ -1,4 +1,7 @@
 ## Comenzar
+## vista previa 
+
+![Coffee App](https://cdn.dribbble.com/users/2947819/screenshots/15475209/media/d6e4bcb5632b9e5842f9e89f79e0c0da.png?compress=1&resize=768x576&vertical=top)
 
 ## Paso 1
 
