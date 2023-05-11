@@ -1,28 +1,38 @@
-## Comenzar
-## vista previa 
+
+## Vista previa 
+A continuación, puedes ver una vista previa de la aplicación:
 
 ![Coffee App](https://cdn.dribbble.com/users/2947819/screenshots/15475209/media/d6e4bcb5632b9e5842f9e89f79e0c0da.png?compress=1&resize=768x576&vertical=top)
 
-## Paso 1
+## Instrucciones para empezar
 
-Instalar dependencias de desarrollo
+### Paso 1: Clona el repositorio
+Para comenzar, clona el repositorio ejecutando el siguiente comando en tu terminal:
 
-### `npm install`
+```bash
+ git clone https://github.com/elmanci2/Solutry.git
+```
 
-## Luego
+### Paso 2: Instala las dependencias necesarias
 
-Ejecutar la aplicación
+Para instalar las dependencias necesarias, ejecuta el siguiente comando en tu terminal:
 
-### `npm start`
+```bash
+npm install
+```
 
-Ejecuta la aplicación en modo de desarrollo.
+Este comando instalará todas las dependencias necesarias para que la aplicación funcione correctamente.
 
-Abre la aplicación en la [Expo app](https://expo.io) en tu teléfono para verla. Se recargará si guardas cambios en tus archivos y verás errores de compilación y registros en la terminal.
+### Paso 3: Ejecuta el proyecto
 
-#### `npm run ios`
+Para ejecutar el proyecto, asegúrate de tener la aplicación Expo instalada en tu teléfono móvil. Luego, en tu terminal, ejecuta el siguiente comando:
 
-Similar a `npm start`, pero también intenta abrir tu aplicación en el simulador de iOS si estás en una Mac y lo tienes instalado.
+```bash
+expo start 
+```
 
-#### `npm run android`
+Este comando iniciará la aplicación y la abrirá en tu navegador web. A partir de ahí, puedes escanear el código QR que aparece en tu navegador web utilizando la aplicación Expo en tu teléfono móvil para cargar la aplicación en tu dispositivo.
 
-Similar a `npm start`, pero también intenta abrir tu aplicación en un dispositivo Android conectado o en un emulador. Requiere una instalación de las herramientas de compilación de Android (consultar la [documentación de React Native](https://facebook.github.io/react-native/docs/getting-started.html) para una configuración detallada).
+### Advertencia
+
+Ten en cuenta que para ejecutar el proyecto correctamente, es necesario tener la aplicación Expo instalada en tu dispositivo móvil.
